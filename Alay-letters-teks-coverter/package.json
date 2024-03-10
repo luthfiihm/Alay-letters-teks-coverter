@@ -1,0 +1,23 @@
+{
+  "name": "alay-letters-teks-coverter",
+  "version": "1.0.0",
+  "description": "alay teks converter",
+  "main": "index.js",
+  "scripts": {
+    "test": "(test.js)"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luthfiihm/Alay-letters-teks-coverter.git"
+  },
+  "keywords": [
+    "alay",
+    "teks"
+  ],
+  "author": "luthfi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/luthfiihm/Alay-letters-teks-coverter/issues"
+  },
+  "homepage": "https://github.com/luthfiihm/Alay-letters-teks-coverter#readme"
+}
